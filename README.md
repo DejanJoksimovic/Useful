@@ -7,6 +7,8 @@
 
 # Links
 ## finished
+### https://www.robinwieruch.de/react-hooks-fetch-data
+### https://levelup.gitconnected.com/state-management-in-react-using-context-api-and-hooks-931c9842f204
 ### https://egghead.io/lessons/react-redux-the-single-immutable-state-tree
 ### https://medium.com/backticks-tildes/setting-up-a-redux-project-with-create-react-app-e363ab2329b8
 ### https://medium.com/netscape/creating-custom-middleware-in-react-redux-961570459ecb
