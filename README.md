@@ -14,6 +14,7 @@
 ### https://medium.com/netscape/creating-custom-middleware-in-react-redux-961570459ecb
 ### https://www.freecodecamp.org/news/scaling-your-redux-app-with-ducks-6115955638be/
 ### https://www.hawatel.com/blog/handle-window-resize-in-react/
+### https://medium.com/osedea/git-rebase-powerful-command-507bbac4a234
 
 # Coding Practise Chalenges
 ## finished
