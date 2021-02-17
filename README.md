@@ -8,6 +8,7 @@
 # Links
 ## finished
 ### https://gist.github.com/alexserver/2fcc26f7e1ebcfc9f6d8
+### https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca
 ### https://www.robinwieruch.de/react-hooks-fetch-data
 ### https://levelup.gitconnected.com/state-management-in-react-using-context-api-and-hooks-931c9842f204
 ### https://egghead.io/lessons/react-redux-the-single-immutable-state-tree
