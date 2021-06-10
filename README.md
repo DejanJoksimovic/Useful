@@ -80,3 +80,37 @@ ssh-keygen -t rsa -b 4096 -C "end53184@adobe.com"
 ```git
 git branch | grep -v "develop" | xargs git branch -D 
 ```
+
+
+
+### Mandatory concepts:
+
+1. hoisting
+1. expressions and statements
+1. appy, call, bind
+1. callback
+1. type conversions
+1. logical operators
+1. switch
+1. imidiatelly invoked functions
+1. es6
+1. arrow functions
+1. param default values
+1. string interpolation
+1. property shorthand
+1. desctructuring
+1. rest, spread
+1. Prototypes
+1. Objects
+1. Arrays
+1. scopes
+1. closure
+1. var, let, const
+1. functions
+1. this
+1. promises
+1. async functions
+1. pure function
+1. side effect
+1. recursion
+1. event loop
