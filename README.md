@@ -36,6 +36,10 @@
 sudo touch .bash_profile
 sudo nano .bash_profile
 ```
+## git checkout to specific remote/branch
+```bash
+git checkout -t remote-name/branch-name
+```
 ## git reset
 
 ``` bash
