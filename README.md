@@ -45,7 +45,6 @@ git checkout -t remote-name/branch-name
 ``` bash
 git reset --hard HEAD~200
 ```
-
 ## git chery pick last commit
 ``` bash
  git cherry-pick develop
@@ -83,6 +82,52 @@ ssh-keygen -t rsa -b 4096 -C "end53184@adobe.com"
 ## remove all branch except develop
 ```git
 git branch | grep -v "develop" | xargs git branch -D 
+```
+
+## install nvm
+
+```bash
+	⁃	terminal:
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.0/install.sh | bash
+
+	⁃	add to .bash_profile:
+export NVM_DIR=~/.nvm
+source ~/.nvm/nvm.sh
+
+	⁃	terminal
+Source .bash_profile
+
+	⁃	terminal
+nvm install 10.14.2
+
+	⁃	terminal
+nvm alias default 10.14.2
+```
+
+## VCS navigating through aliases
+
+create file:
+self-service-cvui/jsconfig.json
+With this content:
+
+```js
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@locales/*": ["./src/locales/*"],
+      "@messages/*": ["./src/locales/messages/*"],
+      "@config/*": ["./src/config/*"],
+      "@data/*": ["./src/data/*"],
+      "@shared/*": ["./src/shared/*"],
+      "@services/*": ["./src/services/*"],
+      "@redux_setup/*": ["./src/redux_setup/*"],
+      "@CONSTANTS/*": ["./src/constants/*"],
+      "@modules/*": ["./src/modules/*"],
+      "@test-utils/*": ["./test-utils/*"],
+    }
+  }
+}
 ```
 
 
