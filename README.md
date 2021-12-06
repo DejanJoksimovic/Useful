@@ -67,6 +67,7 @@ https://stackoverflow.com/questions/44448084/how-do-i-change-the-version-of-yarn
 ## ssh
 
 ssh-keygen -t rsa -b 4096 -C "end53184@adobe.com"
+ssh-add ~/.ssh/id_rsa
 
 - copy content of public key
 - add new key in git
