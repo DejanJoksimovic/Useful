@@ -27,6 +27,7 @@
 
 # Useful links
 ### https://github.com/reduxjs/cra-template-redux
+### https://github.com/hypetechdev
 
 # Useful code
 
