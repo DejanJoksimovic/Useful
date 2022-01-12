@@ -28,6 +28,8 @@
 # Useful links
 ### https://github.com/reduxjs/cra-template-redux
 ### https://github.com/hypetechdev
+### https://www.matthewgerstman.com/tech/performance-testing-anonymous-functions/
+### https://medium.com/@jan.hesters/usecallback-vs-usememo-c23ad1dc60
 
 # Useful code
 
