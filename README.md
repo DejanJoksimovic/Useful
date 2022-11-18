@@ -53,6 +53,11 @@ git reset --hard HEAD~200
  git cherry-pick develop
 ```
 
+## git chery pick commit from antother branch
+``` bash
+ git cherry-pick -x ngr23fgasdgsdg4342...
+```
+
 ## git recursive cloning
 
 ``` bash
