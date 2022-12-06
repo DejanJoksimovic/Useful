@@ -152,12 +152,12 @@ With this content:
 1. switch
 1. imidiatelly invoked functions
 1. es6
-1. arrow functions
-1. param default values
-1. string interpolation
-1. property shorthand
-1. desctructuring
-1. rest, spread
+	1. arrow functions
+	1. param default values
+	1. string interpolation
+	1. property shorthand
+	1. desctructuring
+	1. rest, spread
 1. Prototypes
 1. Objects
 1. Arrays
