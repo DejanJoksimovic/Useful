@@ -21,6 +21,7 @@
 # Coding Practise Chalenges
 ## finished
 ### https://github.com/timoxley/functional-javascript-workshop
+### https://ydkjs-exercises.com/
 ## not finished
 ### https://edabit.com/challenges
 ### https://leetcode.com/problemset/all/?difficulty=Easy
