@@ -25,6 +25,7 @@
 ## not finished
 ### https://edabit.com/challenges
 ### https://leetcode.com/problemset/all/?difficulty=Easy
+### https://www.w3resource.com/javascript-exercises/
 
 # Useful links
 ### https://github.com/reduxjs/cra-template-redux
