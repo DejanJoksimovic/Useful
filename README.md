@@ -174,3 +174,8 @@ With this content:
 1. side effect
 1. recursion
 1. event loop
+
+### Future Presentations:
+1. Best Practise React Dialogs
+1. React Portals
+1. Test Driven Development React
