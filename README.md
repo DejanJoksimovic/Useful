@@ -115,7 +115,7 @@ nvm install 10.14.2
 nvm alias default 10.14.2
 ```
 
-## VCS navigating through aliases
+## VSC navigating through aliases
 
 create file:
 self-service-cvui/jsconfig.json
