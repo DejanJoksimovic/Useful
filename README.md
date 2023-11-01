@@ -2,9 +2,6 @@
 ## finished
 ### https://exploringjs.com/impatient-js/toc.html
 ### https://github.com/getify/Functional-Light-JS/tree/master/manuscript
-## not finished
-### https://web.mit.edu/alexmv/6.037/sicp.pdf
-### http://silab.fon.bg.ac.rs/wp-content/uploads/2016/10/Refactoring-Improving-the-Design-of-Existing-Code-Addison-Wesley-Professional-1999.pdf
 
 # Links
 ## finished
