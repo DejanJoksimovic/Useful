@@ -4,6 +4,10 @@
 ### https://github.com/getify/Functional-Light-JS/tree/master/manuscript
 
 # Links
+- https://bundlephobia.com/ (find the cost of adding a npm package to your bundle)
+- https://d3js.org/ (data visualization)
+
+# Links for reading/solving
 ## finished
 ### https://gist.github.com/alexserver/2fcc26f7e1ebcfc9f6d8
 ### https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca
