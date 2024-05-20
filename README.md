@@ -143,9 +143,12 @@ With this content:
 }
 ```
 
+# Tech's:
+- react-virtualized and react-window
 
 
-### Mandatory concepts:
+
+# Mandatory concepts:
 
 1. hoisting
 1. expressions and statements
@@ -180,5 +183,4 @@ With this content:
 ### Future Presentations:
 1. Best Practise React Dialogs
 1. React Portals
-1. Test Driven Development React
-1. Maintain state between pages using React Router
+1. Intersection observer, windowing
