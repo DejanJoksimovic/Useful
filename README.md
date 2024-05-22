@@ -44,10 +44,6 @@
 sudo touch .bash_profile
 sudo nano .bash_profile
 ```
-## git checkout to specific remote/branch
-```bash
-git checkout -t remote-name/branch-name
-```
 ## git reset
 
 ``` bash
@@ -58,7 +54,7 @@ git reset --hard HEAD~200
  git cherry-pick develop
 ```
 
-## git chery pick commit from antother branch
+## git chery pick commit from another branch
 ``` bash
  git cherry-pick -x ngr23fgasdgsdg4342...
 ```
@@ -85,20 +81,12 @@ ssh-add ~/.ssh/id_rsa
 - copy content of public key
 - add new key in git
 
-## mozzila allow not secure connection
-
-- Open a new window in Firefox and type "about:config" without the quotes and hit enter
-- Confirm that you want to continue
-- In the search field, type in security.enterprise_roots.enabled and hit enter, you'll be left with one field
-- If it's marked as "false" then double-clicking it should turn it to "true"
-- reset mozzila
-
 ## remove all branch except develop
 ```git
 git branch | grep -v "develop" | xargs git branch -D 
 ```
 
-## install nvm
+## install nvm macOs
 
 ```bash
 	⁃	terminal:
@@ -181,7 +169,7 @@ With this content:
 1. recursion
 1. event loop
 
-### Future Presentations:
+# Future Presentations:
 1. Best Practise React Dialogs
 1. React Portals
 1. Intersection observer, windowing
