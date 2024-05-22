@@ -3,9 +3,19 @@
 ### https://exploringjs.com/impatient-js/toc.html
 ### https://github.com/getify/Functional-Light-JS/tree/master/manuscript
 
-# Links
+# Tech
 - https://bundlephobia.com/ (find the cost of adding a npm package to your bundle)
 - https://d3js.org/ (data visualization)
+- https://github.com/streamich/react-use (useful hooks)
+- react-virtualized and react-window (lazy load)
+- React Query (data fetching)
+- SWR (data fetching)
+- Tailwind CSS (css framework)
+- Web push (push notifications) https://www.youtube.com/watch?v=HlYFW2zaYQM
+- Prometheus (monitoring)
+- GraphQL (query for api)
+- NX (monorepo maintenance) https://nx.dev/
+- Prerender (web site index and crawling) https://prerender.io/
 
 # Links for reading/solving
 ## finished
@@ -131,11 +141,6 @@ With this content:
   }
 }
 ```
-
-# Tech's:
-- react-virtualized and react-window
-
-
 
 # Mandatory concepts:
 
