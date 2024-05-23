@@ -4,6 +4,7 @@
 ### https://github.com/getify/Functional-Light-JS/tree/master/manuscript
 
 # Tech
+- https://developer.mozilla.org/en-US/docs/Web/API/AbortController (abort controller)
 - https://bundlephobia.com/ (find the cost of adding a npm package to your bundle)
 - https://d3js.org/ (data visualization)
 - https://github.com/streamich/react-use (useful hooks)
