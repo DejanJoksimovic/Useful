@@ -45,6 +45,7 @@
 ### https://www.matthewgerstman.com/tech/performance-testing-anonymous-functions/
 ### https://medium.com/@jan.hesters/usecallback-vs-usememo-c23ad1dc60
 ### https://www.youtube.com/watch?v=9UL0mmkK2qM (Goxi jenkins)
+### https://www.youtube.com/watch?v=oOvURgHcd4w&list=PLUDwpEzHYYLseflPNg0bUKfLmAbO2JnE9&index=1 (Manual testing full course)
 
 # Useful code
 
