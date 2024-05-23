@@ -19,7 +19,6 @@
 
 # Links for reading/solving
 ## finished
-### https://gist.github.com/alexserver/2fcc26f7e1ebcfc9f6d8
 ### https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca
 ### https://www.robinwieruch.de/react-hooks-fetch-data
 ### https://levelup.gitconnected.com/state-management-in-react-using-context-api-and-hooks-931c9842f204
@@ -27,7 +26,6 @@
 ### https://medium.com/backticks-tildes/setting-up-a-redux-project-with-create-react-app-e363ab2329b8
 ### https://medium.com/netscape/creating-custom-middleware-in-react-redux-961570459ecb
 ### https://www.freecodecamp.org/news/scaling-your-redux-app-with-ducks-6115955638be/
-### https://www.hawatel.com/blog/handle-window-resize-in-react/
 ### https://medium.com/osedea/git-rebase-powerful-command-507bbac4a234
 
 # Coding Practise Chalenges
@@ -35,15 +33,10 @@
 ### https://github.com/timoxley/functional-javascript-workshop
 ### https://ydkjs-exercises.com/
 ## not finished
-### https://edabit.com/challenges
 ### https://leetcode.com/problemset/all/?difficulty=Easy
 ### https://www.w3resource.com/javascript-exercises/
 
 # Useful links
-### https://github.com/reduxjs/cra-template-redux
-### https://github.com/hypetechdev
-### https://www.matthewgerstman.com/tech/performance-testing-anonymous-functions/
-### https://medium.com/@jan.hesters/usecallback-vs-usememo-c23ad1dc60
 ### https://www.youtube.com/watch?v=9UL0mmkK2qM (Goxi jenkins)
 ### https://www.youtube.com/watch?v=oOvURgHcd4w&list=PLUDwpEzHYYLseflPNg0bUKfLmAbO2JnE9&index=1 (Manual testing full course)
 
