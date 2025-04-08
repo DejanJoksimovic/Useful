@@ -1,0 +1,32 @@
+nest js:
+
+- @HttpCode(...) - controller decorator which will return specified response code. (if we don't declare it, default response code will be used) for get it's 200, for post it' 201
+- @Body, @Query, @Headers
+- @All decorator handles all different HTTP methods (get, post, put, delete)
+- @Redirect decorator will do redirection from an endpoint
+- DTO - Data Transfer Object
+- we should use providers to provide an instance of a service (for example) for controller to use
+- we want to use the same instance for other potential modules, we use 'exports'
+- @Global decorator is used to add all stuff in global scope. example:
+@Global
+@Module({
+	controllers: [...
+- Nest JS can throw httpException
+throw new HttpException('Forbidden', HttpStatus.FORBIDDEN)
+- useFactory -> to create dynamic provider (dependent on certain things, like config)
+example:
+(inside module)
+providers: [
+    {
+        provide: OneWelcomeClient,
+        userFactory: (propService: PropertyService) => {
+            // some code
+            return new OneWelcomeClient()
+        },
+        inject: [Property Service]
+    }
+]
+- there is a possibility to export custom provider (from above)
+- async providers can be achieved with async useFactory
+- module can be dynamically configured to use specific configuration
+- there are lifecycle events that can be overridden 
